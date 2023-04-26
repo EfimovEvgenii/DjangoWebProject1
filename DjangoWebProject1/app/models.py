@@ -2,7 +2,6 @@
 Definition of models.
 """
 
-from msilib.schema import Verb
 from tabnanny import verbose
 from django.db import models
 from django.contrib import admin
